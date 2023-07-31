@@ -8,6 +8,7 @@ random_num = 0
 french_word = ""
 english_word = ""
 word = ""
+ 
 
 window = Tk()
 window.title("Flash Cards")
